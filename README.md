@@ -13,7 +13,7 @@
    <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E FRONT-END </h3>
 </div>
 
-- 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
+- 🎯 Amo tecnologias, e estou em constante estudo para aprimorar meus conhecimentos.
 
 - 📈 Adepto das **metodologias agéis**.
 
