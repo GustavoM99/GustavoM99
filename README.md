@@ -16,11 +16,11 @@
    <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E FRONT-END </h3>
 </div>
 
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos, bootcamps, e vídeo aulas.
+
 - 🎯 Amo tecnologias, e estou em constante estudo para aprimorar meus conhecimentos.
 
 - 📈 Adepto das **metodologias agéis**.
-
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos, bootcamps, e vídeo aulas.
 
 ***
 ## 🛠 &nbsp;Tech Stack
