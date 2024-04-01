@@ -35,7 +35,7 @@
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-20232A?style=flat&logo=javascript&logoColor=61DAFB)&nbsp;
 
 ## 📊 &nbsp;Stats
 
