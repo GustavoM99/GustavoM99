@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Gustavo Mendonça - dev Front-End </h1>
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Gustavo Mendonça - dev Mobile </h1>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
@@ -13,10 +13,10 @@
 
 ***
 <div align="center">
-   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E FRONT-END </h3>
+   <h3> FLUENTE EM DESENVOLVIMENTO MOBILE </h3>
 </div>
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos, bootcamps, e vídeo aulas.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** com mais de 2 anos em Desenvolvimento Modile com foco em Flutter.
 
 - 🎯 Amo tecnologias, e estou em constante estudo para aprimorar meus conhecimentos.
 
@@ -25,18 +25,17 @@
 ***
 ## 🛠 &nbsp;Tech Stack
 
+### ⚡ &nbsp;Mobile 
+![Flutter](https://img.shields.io/badge/Flutter-20232A?style=flat&logo=flutter&logoColor=61DAFB)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-20232A?style=flat&logo=dart&logoColor=61DAFB)&nbsp;
+![BLOC](https://img.shields.io/badge/Bloc-20232A?style=flat&logo=bloc&logoColor=61DAFB)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-20232A?style=flat&logo=clean-architecture&logoColor=61DAFB)&nbsp;
+
+
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-
-### 👩‍💻 &nbsp;Back-End
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-
-### ⚡ &nbsp;Mobile 
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Javascript](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 ## 📊 &nbsp;Stats
 
