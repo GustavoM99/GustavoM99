@@ -36,10 +36,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=flat&logo=javascript&logoColor=61DAFB)&nbsp;
-
-## 📊 &nbsp;Stats
-
-<div align="center">
-  <a href="https://github.com/GustavoM99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM99&layout=compact&langs_count=7&theme=dracula"/>
-</div>
